@@ -1,0 +1,23 @@
+body{
+  background-color: rgb(19, 245, 245);
+}
+h1{
+  color: rgb(15, 14, 14);
+  text-shadow:1px 1px 2px rgb(221, 217, 10), 0 0 25px rgb(237, 10, 192), 0 0 5px rgb(43, 227, 7);
+ margin-bottom: 10px;
+ margin-top: 20px;
+ text-align: center;
+}
+.names{
+  margin: 20px;
+}
+
+.para{
+  display: flex;
+  gap: 15px;
+}
+
+.para span{
+  width: 200px;
+  cursor: pointer;
+}
